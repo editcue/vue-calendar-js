@@ -687,7 +687,7 @@
         '}';
     var style=document.createElement('style');
     style.innerText=css;
-    document.body.append(style);
+    document.head.append(style);
     var vueCalendar = {
         template:html,
         props: {
