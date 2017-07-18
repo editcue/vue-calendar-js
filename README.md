@@ -1,12 +1,14 @@
 [vue-calendar-js](#)
 =============
-####简介：
-[vue-calendar-js](#)是基于[vue-calendar](https://github.com/jinzhe/vue-calendar)改写的一个纯js引用的vue-component。<br/><br/>[在线例子]()
-####版本：
+###简介：
+[vue-calendar-js](#)是基于[vue-calendar](https://github.com/jinzhe/vue-calendar)改写的一个纯js引用的vue-component。<br/><br/>
+###在线例子
+
+###版本：
 本项目基于版本[vue-calendar@vf8dd0c7](https://github.com/jinzhe/vue-calendar/tree/f8dd0c7559727c0c8ece3d6502aa7a2d2ccdf012)制作
-####声明：
+###声明：
 里面绝大部分代码均为[vue-calendar](https://github.com/jinzhe/vue-calendar)作者编写，我只是觉得用起来麻烦，所以剥离了[vue-calendar](https://github.com/jinzhe/vue-calendar)对于webpack、babel的cli依赖，把组件写到一个js文件里面，方便调用。
-####Demo code：
+###Demo code：
 ``` html
     <!DOCTYPE html>
     <html lang="en">
