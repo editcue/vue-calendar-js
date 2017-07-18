@@ -4,10 +4,6 @@
 
 [vue-calendar-js](#)是基于[vue-calendar](https://github.com/jinzhe/vue-calendar)改写的一个纯js引用的vue-component。
 
-### 在线例子:
-
->https://codepen.io/editcue/project/editor/ZoNJBn/
-
 ### 版本：
 
 本项目基于[vue-calendar@vf8dd0c7](https://github.com/jinzhe/vue-calendar/tree/f8dd0c7559727c0c8ece3d6502aa7a2d2ccdf012)版本制作
@@ -31,6 +27,10 @@
 * 3.vuejs调用[vue-calendar](https://github.com/jinzhe/vue-calendar)组件
 
 
+### 在线例子:
+
+>https://codepen.io/editcue/project/editor/ZoNJBn/
+
 
 ### Demo code：
 ``` html
@@ -40,7 +40,8 @@
     <meta charset="UTF-8">
     <title>vue-calendar-demo</title>
     <script src="https://cdn.bootcss.com/vue/2.4.1/vue.js"></script>
-    <!--插件文档 https://github.com/jinzhe/vue-calendar-->
+    <!--组件文档 https://github.com/jinzhe/vue-calendar-->
+    <!--组件文档 https://github.com/editcue/vue-calendar-js-->
     <script type="text/javascript" src="calendar.js"></script>
 </head>
 <body>
