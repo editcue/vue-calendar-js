@@ -7,6 +7,7 @@
 ####声明：
 里面绝大部分代码均为[vue-calendar](https://github.com/jinzhe/vue-calendar)作者编写，我只是觉得用起来麻烦，所以剥离了[vue-calendar](https://github.com/jinzhe/vue-calendar)对于webpack、babel的cli依赖，把组件写到一个js文件里面，方便调用。
 ####Demo code：
+``` html
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -255,4 +256,4 @@
     </style>
     </body>
     </html>
-
+```
